@@ -1,8 +1,22 @@
 ### Hi there 👋, I'm [Santosh Mahale](https://www.linkedin.com/in/santosh-mahale-31722718b/)
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg)](https://www.linkedin.com/in/santosh-mahale-31722718b/)
-[![Dev.to](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/devdotto.svg)](https://dev.to/santosh_mahale_97b11060f9)
-[![Sessionize](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sessionize.svg)](https://sessionize.com/santosh-mahale/)
+<a href="https://www.linkedin.com/in/santosh-mahale-31722718b/">
+  <img align="left" alt="LinkedIn" width="22px"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />
+</a>
+<a href="mailto:santoshmahale7676@gmail.com">
+  <img align="left" alt="Email" width="22px"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" />
+</a>
+<a href="https://dev.to/santosh_mahale_97b11060f9">
+  <img align="left" alt="Dev.to" width="22px"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/devdotto.svg" />
+</a>
+<a href="https://sessionize.com/santosh-mahale/">
+  <img align="left" alt="Dev.to" width="22px"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sessionize.svg" />
+</a>
+<br />
 
 ---
 
