@@ -27,9 +27,6 @@ Currently leading infrastructure engineering at a **global financial institution
 overseeing systems across the UK, US, and Asia. My work sits at the intersection
 of platform engineering, automation, and engineering culture.
 
-Previously led a team of ten engineers at **TransUnion**, delivering enterprise-grade
-CI/CD pipelines, API gateway management, and infrastructure at scale.
-
 ✍️ **Writing:** I publish practitioner-level content on DevOps transformation,
 platform engineering, and cloud-native architecture on
 [DEV Community](https://dev.to/santoshmahale) and [Medium](https://medium.com/@santoshmahale).
