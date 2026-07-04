@@ -54,7 +54,7 @@ an open source project to help engineers prepare for technical interviews using 
 
 📝 **Latest Writing**
 
-- [We Renamed the DevOps Team 'Platform Engineering.' Nothing Changed. Here's Why.]([https://dev.to/santosh_mahale_97b11060f9](https://platformengineering.com/features/we-renamed-the-devops-team-platform-engineering-nothing-changed-heres-why/))
+- [We Renamed the DevOps Team 'Platform Engineering.' Nothing Changed. Here's Why.](https://platformengineering.com/features/we-renamed-the-devops-team-platform-engineering-nothing-changed-heres-why/)
 
 ---
 
