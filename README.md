@@ -55,6 +55,7 @@ an open source project to help engineers prepare for technical interviews using 
 📝 **Latest Writing**
 
 - [We Renamed the DevOps Team 'Platform Engineering.' Nothing Changed. Here's Why.](https://platformengineering.com/features/we-renamed-the-devops-team-platform-engineering-nothing-changed-heres-why/)
+- [Most AI Agent Failures Aren't Model Problems, They're Architecture Problems](https://hackernoon.com/most-ai-agent-failures-arent-model-problems-theyre-architecture-problems)
 
 ---
 
